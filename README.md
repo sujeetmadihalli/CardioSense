@@ -23,7 +23,7 @@ Using a hybrid dataset of personal Apple Watch data and public Fitbit data (Kagg
 ## 🚀 How to Run
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/CardioSense.git](https://github.com/YOUR_USERNAME/CardioSense.git)
+    git clone [https://github.com/YOUR_USERNAME/CardioSense.git](https://github.com/sujeetmadihalli/CardioSense.git)
     ```
 2.  **Install dependencies:**
     ```bash
