@@ -1,0 +1,10 @@
+# Ignore data files
+data/raw/
+*.csv
+*.zip
+
+# Keep the sample data if you made a small anonymized one
+!data/sample_data.csv
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints
