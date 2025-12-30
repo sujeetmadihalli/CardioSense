@@ -17,7 +17,7 @@ Using a hybrid dataset of personal Apple Watch data and public Fitbit data (Kagg
 * **Data Sources:** Apple Health Export (Personal), [Fitbit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit)
 
 ## 📂 Project Structure
-* `notebooks/CardioSense_Analysis.ipynb`: The primary analysis workflow, including data cleaning, EDA, and modeling.
+* `notebooks/CardioSense.ipynb`: The primary analysis workflow, including data cleaning, EDA, and modeling.
 * `data/`: Contains sample data structure for testing the pipeline.
 
 ## 🚀 How to Run
